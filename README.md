@@ -1,5 +1,5 @@
 <body background-color = "white">
-<h1 align="center">Hi 👋, I'm Bereketab</h1>
+<h1 align="center" color="red">Hi 👋, I'm Bereketab</h1>
 <h3 align="center">A fast learner and extremely dedicated full-stack developer in Warsaw, Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bereketab24&label=Profile%20views&color=0e75b6&style=flat" alt="bereketab24" /> </p>
