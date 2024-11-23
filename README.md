@@ -1,3 +1,4 @@
+<body background-color = "white">
 <h1 align="center">Hi 👋, I'm Bereketab</h1>
 <h3 align="center">A fast learner and extremely dedicated full-stack developer in Warsaw, Poland.</h3>
 
@@ -48,3 +49,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bereketab24&show_icons=true&locale=en" alt="bereketab24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bereketab24&" alt="bereketab24" /></p>
+</body>
