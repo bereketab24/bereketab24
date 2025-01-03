@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Yeneta Tech online learning platform](https://github.com/bereketab24/YenetaTech)
 
-- 🌱 I’m currently learning **Angular, TypeScript, Java, Django and C++**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **MERN focused full-stack projects**
 
