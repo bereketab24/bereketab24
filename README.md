@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bereketab24" alt="bereketab24" /></a> </p>
 
-- 🔭 I’m currently working on [Yeneta Tech online learning platform](https://github.com/bereketab24/YenetaTech)
+- 🔭 I’m currently working on [Spring-boot Project](https://github.com/bereketab24/Innowise_Spring_Boot_Project)
 
 - 🌱 I’m currently learning **Java**
 
