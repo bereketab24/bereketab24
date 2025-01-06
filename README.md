@@ -16,13 +16,13 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/bereketab24/](https://www.linkedin.com/in/bereketab24/)
 
-- 💬 Ask me about **React, MySQL, Node.js, Express.js, Python and JavaScript.**
+- 💬 Ask me about **React, MySQL, Node.js, Express.js and JavaScript.**
 
 - 📫 How to reach me **bereketab1994@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o0KXP--yCIp6yMTffdWTDR8Zcbpr7JDm/view?usp=drive_link](https://drive.google.com/file/d/1o0KXP--yCIp6yMTffdWTDR8Zcbpr7JDm/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17ZJhj-NK2OTcWPXAo54VtNSSqy9ziGbp/view?usp=sharing)
 
-- ⚡ Fun fact **I will be among the top developers that my country have ever seen.**
+- ⚡ Fun fact **I love working on compeletely new project from what I know.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
