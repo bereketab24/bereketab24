@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17ZJhj-NK2OTcWPXAo54VtNSSqy9ziGbp/view?usp=sharing)
 
-- ⚡ Fun fact **I love working on compeletely new project from what I know.**
+- ⚡ **I love working on compeletely new project that I don't have any prior knowledge.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
