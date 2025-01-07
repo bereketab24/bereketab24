@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **MERN focused full-stack projects**
+- 👯 I’m looking to collaborate on **any kind of projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bereketab24](https://github.com/bereketab24)
 
