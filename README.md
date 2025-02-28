@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/bereketab24/](https://www.linkedin.com/in/bereketab24/)
 
-- 💬 Ask me about **React, MySQL, Node.js, Express.js and JavaScript.**
+- 💬 Ask me about **Java, Spring, SQL, Docker**
 
 - 📫 How to reach me **bereketab1994@gmail.com**
 
