@@ -1,28 +1,28 @@
 <body background-color = "white">
 <h1 align="center" color="red">Hi 👋, I'm Bereketab</h1>
-<h3 align="center">A fast learner and extremely dedicated full-stack developer in Warsaw, Poland.</h3>
+<h3 align="center">Java|Spring|backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bereketab24&label=Profile%20views&color=0e75b6&style=flat" alt="bereketab24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bereketab24" alt="bereketab24" /></a> </p>
 
-- 🔭 I’m currently working on [Spring-boot Project](https://github.com/bereketab24/Innowise_Spring_Boot_Project)
+- 🔭 I’m currently working on [Drad Gym app](https://github.com/bereketab24/Innowise_Spring_Boot_Project)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on **any kind of projects**
+- 👯 I’m looking to collaborate on **Java and Spring ecosystem related projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bereketab24](https://github.com/bereketab24)
+- 👨‍💻 Some of my projects are available at [https://github.com/bereketab24](https://github.com/bereketab24)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/bereketab24/](https://www.linkedin.com/in/bereketab24/)
 
-- 💬 Ask me about **Java, Spring, SQL, Docker**
+- 💬 Ask me about **Java, Spring Ecosystem, Databases, Docker, Kubernetes**
 
 - 📫 How to reach me **bereketab1994@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17ZJhj-NK2OTcWPXAo54VtNSSqy9ziGbp/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1V1T2nEyhkKElIn6FogGAwajk0hKEFzTu/view?usp=sharing)
 
-- ⚡ **I love working on compeletely new project that I don't have any prior knowledge about.**
+- ⚡ **I love Java**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
